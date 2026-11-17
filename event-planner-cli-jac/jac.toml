@@ -4,6 +4,7 @@ version = "1.0.0"
 description = "Event Planner Assistant - interactive CLI with AI-generated checklists and budgets"
 entry-point = "main.jac"
 kind = "cli"
+jac-version = "0.34.17"
 
 [byllm.model]
 default_model = "gemini/gemini-3.8-flash"
